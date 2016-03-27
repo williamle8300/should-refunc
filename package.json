@@ -2,11 +2,21 @@
   "license": "ISC",
   "main": "index.js",
   "maintainers": [
-    {
-      "email": "williamle8300@gmail.com",
-      "name": "williamle8300"
-    }
+    "williamle8300 <williamle8300@gmail.com>"
   ],
   "name": "should-refunc",
-  "version": "0.0.2"
+  "version": "0.0.2",
+  "description": "iterate over a collection and execute any function that has the signature: (item, callback)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamle8300/should-refunc.git"
+  },
+  "author": "williamle8300 <williamle8300@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/williamle8300/should-refunc/issues"
+  },
+  "homepage": "https://github.com/williamle8300/should-refunc#readme"
 }
