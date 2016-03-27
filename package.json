@@ -1,0 +1,12 @@
+{
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "williamle8300@gmail.com",
+      "name": "williamle8300"
+    }
+  ],
+  "name": "should-refunc",
+  "version": "0.0.2"
+}
