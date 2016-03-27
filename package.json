@@ -5,7 +5,7 @@
     "williamle8300 <williamle8300@gmail.com>"
   ],
   "name": "should-refunc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "iterate over a collection and execute any function that has the signature: (item, callback)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
